@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppernia
+- 👋 Hi, I’m Patrick Pernia
 - 👀 I’m interested in Python, Data Science, and AI
 - 🌱 I just finished my Introductory Python program and have a professional certificate from edx-Georgia Tech. I also have 8 certificates from edx-Harvard that comprise 
 the Introductory Data Science course. I am now planning to study applied AI
