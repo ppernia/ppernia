@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppernia
 - 👀 I’m interested in Python, Data Science, and AI
-- 🌱 I just finished my Introductory Python have a professional certificate from Georgia Tech through the edx.org. I also have 8 certificates from Harvard edx that comprise 
+- 🌱 I just finished my Introductory Python program have a professional certificate from edx-Georgia Tech. I also have 8 certificates from edx-Harvard that comprise 
 the Introductory Data Science course. I am now planning to study applied AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
